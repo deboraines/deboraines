@@ -2,7 +2,8 @@
 ### Olá! Eu sou a Débora 🙋🏻‍♀️
 
 - 👩🏻‍💻 Hoje trabalho como analista de dados
-- 🤖 Estudando ciências de dados
+- 💻 Formada em Sistemas de Informação
+- 🤖 Pós graduação em Ciências de Dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A9bora-gon%C3%A7alves-9bb78635/)
 
